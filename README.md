@@ -1,4 +1,3 @@
-## Hi there 👋
 <p align="center">
   <img align="center" alt="Me"  src="https://s4.gifyu.com/images/Hi-Im-Badreddine.gif">
 </p>
@@ -6,9 +5,9 @@
 <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-22-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Morocco%20%26%20Italy-success" />
+<img src="https://img.shields.io/badge/Age-25-blue" />
+  <img src="https://img.shields.io/badge/Focus-Quantitave%20analysis-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Paris,%20France-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20French-brightgreen" />
 </p>
 <hr>
