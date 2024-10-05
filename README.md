@@ -1,10 +1,4 @@
 <p align="center">
-  <img align="center" alt="Me"  src="https://s4.gifyu.com/images/Hi-Im-Badreddine.gif">
-</p>
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
- </p>
- <p align="center">
 <img src="https://img.shields.io/badge/Age-25-blue" />
   <img src="https://img.shields.io/badge/Focus-Quantitave%20analysis-blue" />
   <img src="https://img.shields.io/badge/Lives-Paris,%20France-blue" />
@@ -18,7 +12,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Abdelhak Lahmamssi, currently pursuing a  <b>Msc Finance and Big Data</b> at  <a href="[https://neoma-bs.fr/]"> <b> NEOMA Business School</b>, Paris, France</a>. <br>
+     Hello, I am Abdelhak Lahmamssi, currently pursuing a  <b>Msc Finance and Big Data</b> at  <a href="https://neom-bs.fr"> <b> NEOMA Business School</b></a>, Paris, France.
   </em> 
   <br>
   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lahmabdel&show_icons=true&locale=en&theme=react" alt="ovi" width="410" /></p>
